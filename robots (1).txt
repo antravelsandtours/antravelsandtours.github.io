@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antravelsandtours.github.io/sitemap.xml
